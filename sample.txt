@@ -1,0 +1,11 @@
+Header1,,2
+Header1.1,Data under Header1.1,0
+Header1.2,Data under Header1.2,0
+Header2,,2
+Header2.1,Data under Header2.1,0
+Header2.2,,1
+Header2.2.1,Data under Header2.2.1,0
+Header3,,0
+Header4,,1
+Header4.1,,1
+Header4.1.1,Data under Header4.1.1,0

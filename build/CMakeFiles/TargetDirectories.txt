@@ -1,0 +1,3 @@
+/mnt/f/c_plus_plus_exercise/multilevel-doubly-linked-list/build/CMakeFiles/runTests.dir
+/mnt/f/c_plus_plus_exercise/multilevel-doubly-linked-list/build/CMakeFiles/edit_cache.dir
+/mnt/f/c_plus_plus_exercise/multilevel-doubly-linked-list/build/CMakeFiles/rebuild_cache.dir
